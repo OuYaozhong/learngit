@@ -9,3 +9,7 @@ It looks like something has been changed.
 =======
 No much thing can be written.
 >>>>>>> dev2
+
+I am doing a new thing now.
+I have a good idea to deal with the problem.
+So I am hard-working now. Don't disturb me.
